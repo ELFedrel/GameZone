@@ -11,7 +11,8 @@
             public const string DateTimeFormat = "yyyy-MM-dd";
        
             public const int NameMinLength = 3;
-            public const int NameMaxLength = 25;
+            public const int NameMaxLength = 200;
+            
         
     }
 }
