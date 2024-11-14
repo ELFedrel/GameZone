@@ -6,7 +6,7 @@
             public const int TitleMinLength = 2;
             public const int TitleMaxLength = 50;
             public const int DescriptionMinLength = 10;
-            public const int DescriptionMaxLength = 500;
+            public const int DescriptionMaxLength = 8880;
             
             public const string DateTimeFormat = "yyyy-MM-dd";
        
